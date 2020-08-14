@@ -1,5 +1,5 @@
 # CalKart
-## This project can simultaneously select the number of items along with the quantity to order. It can also calculate the total bill.
+## This project can simultaneously select the number of items along with the quantity to order. It can calculate the total bill at the end for purchasing food.
 <img src="https://user-images.githubusercontent.com/48389510/90267670-85771280-de73-11ea-973c-c1fd081576c4.jpg" width="200">
 <img src="https://user-images.githubusercontent.com/48389510/90267658-827c2200-de73-11ea-89d1-7c87433d4317.jpg" width="200">
 ## Login Page
