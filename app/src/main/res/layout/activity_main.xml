@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="auto"
+    android:orientation="vertical"
+    android:background="@drawable/logback"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="24dp"
+        android:background="#FFFFFEFE"
+        app:srcCompat="?attr/actionModeCloseDrawable" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="30dp"
+        android:text="Hello There!"
+        android:textColor="#FC0C0C0C"
+        android:textSize="30dp"
+        app:fontFamily="@font/pacifico" />
+
+
+    <EditText
+        android:id="@+id/editText6"
+        android:layout_width="295dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="60dp"
+        android:width="@android:dimen/app_icon_size"
+        android:background="@drawable/recshad"
+        android:drawableLeft="@drawable/editicon"
+        android:ems="10"
+        android:paddingLeft="10dp"
+        android:hint="Enter username"
+        android:inputType="textPersonName"
+        android:textColor="#FC0C0C0C" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="295dp"
+        android:layout_height="79dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="60dp"
+        android:background="@drawable/recshad"
+        android:drawableLeft="@drawable/lock"
+        android:ems="10"
+        android:hint="  Enter Password"
+        android:inputType="textPassword"
+        android:paddingLeft="20dp"
+        android:textColor="#FC0C0C0C" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/ripple"
+        android:text="Sign In"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFEFE"
+        android:textSize="20dp" />
+
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/coiny</item>
+        <item>@font/faster_one</item>
+        <item>@font/joti_one</item>
+        <item>@font/kaushan_script</item>
+        <item>@font/macondo</item>
+        <item>@font/margarine</item>
+        <item>@font/mclaren</item>
+        <item>@font/merienda_one</item>
+        <item>@font/pacifico</item>
+        <item>@font/paprika</item>
+    </array>
+</resources>
