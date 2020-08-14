@@ -1,10 +1,15 @@
 # CalKart
 ## This project can simultaneously select the number of items along with the quantity to order. It can also calculate the total bill.
-
-<img src="https://user-images.githubusercontent.com/48389510/90265505-4e533200-de70-11ea-8bbc-e95bfa71ff30.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/48389510/90265496-4bf0d800-de70-11ea-97c9-a655179e6336.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/48389510/90265473-46938d80-de70-11ea-8630-a65a917169de.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/48389510/90265473-46938d80-de70-11ea-8630-a65a917169de.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/48389510/90265490-4abfab00-de70-11ea-92ce-181f5fe21f76.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/48389510/90265515-50b58c00-de70-11ea-8631-910b21d4b86f.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/48389510/90265514-4f845f00-de70-11ea-8b3e-96cb08bc3aa2.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/48389510/90267670-85771280-de73-11ea-973c-c1fd081576c4.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/48389510/90267658-827c2200-de73-11ea-89d1-7c87433d4317.jpg" width="200">
+## Login Page
+<img src="https://user-images.githubusercontent.com/48389510/90267710-9031a780-de73-11ea-8dec-fb909138c9c6.jpg" width="200">
+## Registration Page
+<img src="https://user-images.githubusercontent.com/48389510/90267704-8f991100-de73-11ea-92a9-06b8f2e04406.jpg" width="200">
+## Cuisine Page
+<img src="https://user-images.githubusercontent.com/48389510/90267680-88720300-de73-11ea-8e45-cfdc4308087e.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/48389510/90267683-8ad45d00-de73-11ea-97db-2d19606dfdf3.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/48389510/90267691-8c9e2080-de73-11ea-92ae-7cc0af9664b5.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/48389510/90267695-8dcf4d80-de73-11ea-8bb9-ea061fc9dff0.jpg" width="200">
+## Billing Page
+<img src="https://user-images.githubusercontent.com/48389510/90267678-8740d600-de73-11ea-8e41-3da14383a566.jpg" width="200">
